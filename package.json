@@ -1,0 +1,24 @@
+{
+  "name": "douyu-danmu-ws",
+  "version": "1.0.0",
+  "description": "Receive message from douyu websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianjiachun/douyu-danmu.git"
+  },
+  "keywords": ["typescript", "douyu", "websocket"],
+  "author": "qianjiachun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qianjiachun/douyu-danmu/issues"
+  },
+  "homepage": "https://github.com/qianjiachun/douyu-danmu#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
