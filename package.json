@@ -1,6 +1,6 @@
 {
   "name": "douyu-danmu-ws",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Receive message from douyu websocket",
   "main": "dist/index.js",
   "type": "dist/index.d.ts",
