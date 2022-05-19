@@ -9,6 +9,7 @@
 
 ### Usage
 ```
+import { deserialize, DouyuDanmu } from "douyu-danmu-ws";
 let ws = new DouyuDanmu(roomId, (data) => {
     let obj = deserialize(data);
     console.log(obj);

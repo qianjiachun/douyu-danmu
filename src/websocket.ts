@@ -41,7 +41,7 @@ class DouyuDanmu {
             reader.readAsText(e.data);
         };
     }
-    close() {
+    public close() {
         clearInterval(this.timer);
         this.ws.close();
     }
